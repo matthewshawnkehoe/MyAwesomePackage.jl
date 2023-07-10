@@ -1,2 +1,2 @@
 # MyAwesomePackage.jl
-A dummy package for the Julia Concise Tutorial
+A dummy package for the Julia Concise Tutorial.
